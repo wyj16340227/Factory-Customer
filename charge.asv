@@ -1,0 +1,13 @@
+function [ output_args ] = charge( result, cap, cusCost )
+% charge the result is valid or not
+% get size
+[m, ~] = size(result);
+tempCap = cap;
+for i = 1: m
+    re
+end
+
+
+
+end
+
